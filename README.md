@@ -35,7 +35,8 @@ As I aim to determine what factors make a Youtube video popular overall and in e
 2) How do these factors vary from country to country?
 
 ## Background and/or Related Work  
-It is known that youtube videos released by channels/creators with high number of subscribers receive more views,likes,comments and therefore become popular/trending. There are probably many analyses of the like that try to determine which factors control the popularity. However, the aim of this project is to see how these factors differ from country to country and why do they differ? Can these differences be reasoned by statistics pertaining to the demography in each country or is there more to it? Are socio-economic or political atmosphere of the country have a role as well? The aim is to also see how the popularity factors vary from category to category. 
+It is known that youtube videos released by channels/creators with high number of subscribers receive more views,likes,comments and therefore become popular/trending. There are probably many analyses of the like that try to determine which factors control the popularity. However, the aim of this project is to see how these factors differ from country to country and why do they differ? Can these differences be reasoned by statistics pertaining to the demography in each country or is there more to it? Are socio-economic or political atmosphere of the country have a role as well? The aim is to also observe how the popularity factors vary from category to category. Thsi analysis will also include some qualtitative insights presented along with the statistical inferences.
+There are several kernels that have used this dataset for analyses, although I have described how and why my analyses will be different from the existing ones, the exploratory data analyses might be similar due to the nature of data and prevailing assumptions.
 
 ## Methodology  
 * Pre-processing  
