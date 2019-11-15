@@ -41,7 +41,7 @@ It is known that youtube videos released by channels/creators with high number o
 * Pre-processing  
 A subset of the data will be used for the analyses. The size of this subset will be decided after performing some exploratory data analysis to understand how sparse/not sparse is the data. To determine how these factors vary over different categories, a set of 5-10 categories will be chosen for comparison.
 * Statitical Analysis Method    
-Linear Regression models will be used to train and determine the predictors. This method is appropriate as all the data points are independent and the sample size is large enough to meet the normality assumption. This also provides ease in interpreting the results and verifying the correlations statitically.
+Linear Regression models will be used to train and determine the predictors. This method is appropriate as all the data points are independent and the sample size is large enough to meet the normality assumption. This also provides ease in interpreting the results and verifying the correlations statitiscally.
 * Result  
 The results will be presented in a comprehensive compilation of visualizations and comparison tables.
  
