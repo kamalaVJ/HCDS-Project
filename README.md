@@ -9,7 +9,8 @@ I believe that insights from this research study will hold value for two groups 
 This work is licensed under the MIT License listed in the License file in this repository. This work is intended to be fully reproducible. This means that any user should be able to run the code and produce the exact same result as presented here. Clone the repository to do so.
 
 ## How to run this repository?
-The jupyter notebook "Data 512-Project" consists of all the analysis as well as the reproducible code. It uses the csv and json files from the folder "Data".
+The jupyter notebook "Data 512-Project" consists of all the analysis as well as the reproducible code. It uses the json files from the folder "Data". Download the video information csv files from the google drive and place it in the folder "Data" after cloning the repository.   
+Google drive link: https://drive.google.com/drive/u/0/folders/1yV46KwLkiGYuzpEgal95n692bbBj69Lv
 
 
 ## Data 
